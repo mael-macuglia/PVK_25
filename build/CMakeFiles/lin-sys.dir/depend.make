@@ -1,0 +1,2 @@
+# Empty dependencies file for lin-sys.
+# This may be replaced when dependencies are built.
