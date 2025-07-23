@@ -1,10 +1,10 @@
-# Numerical Methods in Computer Science - C++ Examples
+# Numerical Methods in Computational Science - C++ Examples
 
 [![C++](https://img.shields.io/badge/C%2B%2B-17-blue.svg?style=flat&logo=c%2B%2B)](https://en.cppreference.com/w/cpp/17)
 [![CMake](https://img.shields.io/badge/CMake-3.10%2B-green.svg?style=flat&logo=cmake)](https://cmake.org/)
 [![Eigen](https://img.shields.io/badge/Eigen-3.4.0-orange.svg?style=flat)](https://eigen.tuxfamily.org/)
 
-A comprehensive collection of C++ programming examples covering essential concepts for numerical computing and linear algebra, designed for computer science engineering students.
+A comprehensive collection of C++ programming examples covering essential concepts for numerical computing and linear algebra, designed for computational science engineering students.
 
 ## 📋 Overview
 
@@ -178,7 +178,7 @@ This project is released under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍🏫 Academic Context
 
-This repository was developed as supplementary material for a **Numerical Methods in Computer Science Engineering** course, focusing on practical C++ implementations of mathematical concepts essential for computational science and engineering applications.
+This repository was developed as supplementary material for a **Numerical Methods for Computational Science Engineering** course, focusing on practical C++ implementations of mathematical concepts essential for computational science and engineering applications.
 
 ---
 
