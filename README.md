@@ -165,16 +165,7 @@ The `recap.md` file contains a comprehensive cheat sheet covering:
 - **Eigen path** is set for Homebrew installation on macOS
 - For different systems, modify the `EIGEN3_INCLUDE_DIR` in `CMakeLists.txt`
 
-## 🤝 Contributing
 
-This is an educational repository. For suggestions or improvements:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
-
-## 📄 License
-
-This project is released under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍🏫 Academic Context
 
